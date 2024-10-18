@@ -1,2 +1,2 @@
 # employee-tracker
-This is a basic two-tier employee database that connects Node, Express and Postgres
+This is a basic employee tracking application that connects Node, Express and Postgres
